@@ -1,0 +1,24 @@
+# Archivos de configuración local y credenciales
+.env
+*.env
+
+# Entornos virtuales y dependencias
+.venv/
+venv/
+ENV/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
